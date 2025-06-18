@@ -7,10 +7,11 @@
 It all started with discomfort—I couldn’t lean back comfortably in my chair without having to keep my hand on the table just to move the mouse. So I searched to see if there were any USB touchpads, but the prices were outrageous. Then I looked for Bluetooth touchpads, but only found ones bundled with mini keyboards.
 
 Eventually, I started looking for ways to build one myself and found many tutorials on converting old touchpads into external mice. BUT THEY WERE ALL SYNAPTICS. Meanwhile, the only touchpad I had was an ELAN, and fortunately, its pinout was easier to identify thanks to its simple labeling:
-TV: VCC
-TG: Ground
-TD: Data
-TC: Clock
+
+- TV: VCC
+- TG: Ground
+- TD: Data
+- TC: Clock
 
 With zero Arduino knowledge (of course idk how to use ESP32), I boldly experimented with many things until I finally got it working. Special thanks to Kristopher for the PS2-Mouse-Arduino library, T-vK for the ESP32-BLE-Mouse library, and Gaowanliang for the Synaptics-based references—which I didn’t understand at all. Without them, I would never have been able to create this masterpiece.
 
