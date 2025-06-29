@@ -1,6 +1,6 @@
 # ESP32-BLE-Touchpad-ELAN
 
- An ESP32-based Bluetooth touchpad project that drives an ELAN controller touchpad to connect to a computer or mobile phone via Bluetooth, providing mouse functionality.
+ An ESP32-based Bluetooth touchpad project that drives an ELAN or any generic controller touchpad (PS/2 variant) to connect to a computer or mobile phone via Bluetooth, providing mouse functionality.
 
 ## Motivation
 
