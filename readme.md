@@ -51,11 +51,13 @@ const int buttonPin2 = 23;
 - forward = button2 + right click
 - backward = button2 + left click
 
+## For more simple version check [version 1](https://github.com/eroge69/ESP32-BLE-Touchpad-ELAN/tree/1)
+
+-
+
 ## Contribution
 
 You're welcome to submit issues and pull requests to improve the project.
-
-## For more simple version check [version 1](https://github.com/eroge69/ESP32-BLE-Touchpad-ELAN/tree/1)
 
 ## Acknowledgments
 
