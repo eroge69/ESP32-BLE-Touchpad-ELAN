@@ -40,9 +40,22 @@ const int buttonPin1 = 22;
 const int buttonPin2 = 23;
 ```
 
+## Button
+- left click = left click
+- right click = right click
+- move mouse = move touchpad
+- scroll mode = toggle with button1
+- fast scroll horizontal and vertical = move touchpad (I can't make it slow XD)
+- slow scroll vertical = left and right click
+- ctrl = button2 (for zoom in-out with scroll)
+- forward = button2 + right click
+- backward = button2 + left click
+
 ## Contribution
 
 You're welcome to submit issues and pull requests to improve the project.
+
+## For more simple version check [version 1](https://github.com/eroge69/ESP32-BLE-Touchpad-ELAN/tree/1)
 
 ## Acknowledgments
 
